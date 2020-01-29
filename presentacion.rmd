@@ -1,0 +1,147 @@
+---
+title: "Proyectos 4.0"
+author: "C.I.T"
+output: 
+  ioslides_presentation:
+    css: SLUCOR.css
+    logo: logo.png
+---
+
+## Misión
+<br><br>
+Impulsar el desarrollo colectivo utilizando la **tecnología** como herramienta para generar un **cambio positivo** en la comunidad.
+
+## Visón
+<br><br>
+Ser reconocidos como el grupo estudiantil modelo para la incursión de las **nuevas tecnologías** y promoverlas dentro de nuestra **comunidad**.
+
+# Metas
+## Corto plazo
+
+- Toma de protesta del CIT.
+- Habilitar un área de desarrollo.
+- Demostración de prototipos de IoT en el concurso de programación local 2018.
+- Constituir equipos de trabajo multidisciplinarios.
+- Difundir a preparatorias los módulos de especialidad de la Industria 4.0 para incrementar la matricula en las carreras.
+- Participación en el Hackathon “Talent Land” en la ciudad de Guadalajara, Jalisco.
+
+## Largo plazo
+
+- Ser competitivos, siendo protagonistas en los torneos que se participen.
+- Vinculación escuela-empresa donde se recluten estudiantes para implementar proyectos en la Industria 4.0.
+- Ser protagonistas de eventos académicos como Hackathones y Startups con la participación de universidades y/o tecnológicos locales.
+- Participación destacada en eventos locales, regionales y nacionales como lo es el ENEIT (Evento Nacional Estudiantil de Innovación Tecnológica).
+
+# Colaboraciones
+
+## 
+<center>
+![](images/colaboraciones.png){ width=100% }
+</center>
+
+##
+<br><br><br><br>
+<center>
+![](images/logosColaboraciones.png){ width=100% }
+</center>
+
+## HUB Innovación Coahuila 4.0
+Gracias a las habilidades de  los miembros del CIT y a la experiencia con ciertas **tecnologías innovadoras**, fuimos los únicos alumnos universitarios de todo el estado invitados al HUB Coahuila 4.0, donde nos especializamos en las tecnologías de la **I4.0** a traves capacitaciones e implementado proyectos con el conocimiento adquirido.
+<center>
+<br><br>
+![](images/hub.png){ width=45% }
+</center>
+
+## Tecnologías
+<center>
+![](images/tecnologias.png){ width=60% }
+</center>
+
+## Software Dev.
+<center>
+![](images/software.png){ width=100% }
+</center>
+
+## AR / VR
+<center>
+![](images/xr.png){ width=100% }
+</center>
+
+## Sistemas Embebidos
+<center>
+![](images/embebidos.png){ width=100% }
+</center>
+
+## IIOT
+<center>
+![](images/iiot.png){ width=100% }
+</center>
+
+## 
+<center>
+![](images/iiot2.png){ width=100% }
+</center>
+
+## ¿Cómo Sumarte?
+<br><br>
+Colaboremos juntos utilizando una Dirección de Innovación (DI)
+
+- Creación de vínculos de colaboración con empresas y organismos públicos y privados
+- Transferir las tecnologías desarrolladas por el CIT  o con alianzas estratégicas a través de proyectos tecnológicos
+
+<br><br>
+La vía para generar vínculos de colaboración con el CIT es a través de la elaboración y firma de contratos o convenios
+
+# Vínculos de colaboración
+
+## Tech Intership
+<br><br>
+Otorgar jóvenes estudiantes para que elaboren sus prácticas profesionales de acuerdo a las habilidades de los mismos
+<br>
+Recomendado para empresas que ya tienen un departamento que impulse las tendencias tecnológicas
+
+## Maker
+<br><br>
+Elaboración de un Makerspace dentro de la empresa para solucionar problemas con un enfoque de desarrollo tecnológico en nuevas tecnologías.
+<br>
+Ideal para arrancar grupos de desarrollo tecnológico dentro de la empresa con enfoque 4.0.
+
+## Revolution 4.0
+<br><br>
+Proyecto a gran escala en colaboración ya sea con nuestros asesores investigadores SNI, o trabajando en conjunto con nuestra alianza estratégica con la empresa IJ Robotics formando así una incubadora de talento.
+<br>
+Orientado a empresas que desean dar un cambio significativo a sus procesos con el fin de ser una *Smart Factory*
+
+# Alianzas Estratégicas
+
+## IJ Robotics
+<br><br>
+<center>
+![](images/ij1.png){ width=100% }
+</center>
+
+##
+<br><br>
+<center>
+![](images/ij2.png){ width=100% }
+</center>
+
+## Instituciones unidas al proyecto I4.0 con IJ Robotics
+<center>
+![](images/instituciones.png){ width=100% }
+</center>
+
+##
+<center>
+![](images/instituciones2.png){ width=100% }
+</center>
+
+## I4.0
+<center>
+![](images/ii40.gif){ width=100% }
+</center>
+
+## IJX
+<center>
+![](images/ijx.gif){ width=100% }
+</center>
